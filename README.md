@@ -1,5 +1,5 @@
 # projeto-landing-page
-Este é o projeto de desenvolvimento do módulo base do curso de Tecnologia da Escola DNC.
+Projeto de desenvolvimento do módulo base do curso de Tecnologia da Escola DNC.
 
 Desafio 1 - Resolução
 Link do site disponibilizado: https://dnc-escola.netlify.app/
