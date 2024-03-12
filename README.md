@@ -1,5 +1,6 @@
 # projeto-landing-page
 Projeto de desenvolvimento do módulo base do curso de Tecnologia da Escola DNC.
+Aplicando HTML, CSS, Javascript e utilizando o Figma como suporte.
 
 Desafio 1 - Resolução
 Link do site disponibilizado: https://dnc-escola.netlify.app/
