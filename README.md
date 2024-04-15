@@ -30,8 +30,9 @@ A página principal é a única do projeto e apresenta algumas informações, co
 
 🎯 Etapas:
 
-- Crie o layout com baser no Figma.
-- Integre o formulário.
+- Crie o layout com base no Figma.
+- Integre o formulário usando Sheet Monkey e suas planilhas de sheets.
+  
     
 Desafio 1 - Resolução
 
