@@ -33,6 +33,8 @@ A página principal é a única do projeto e apresenta algumas informações, co
 - Crie o layout com baser no Figma.
 - Integre o formulário.
     
-  Desafio 1 - Resolução
+Desafio 1 - Resolução
+
 Link do site disponibilizado: https://dnc-escola.netlify.app/
+
 Link da planilha de registro de informações: https://docs.google.com/spreadsheets/d/1pQaCxvryKctQov3rwNDnz-lm-_RHP1r8Tx_8AsOr0YY/edit#gid=0 
