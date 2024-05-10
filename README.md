@@ -29,14 +29,6 @@ A página principal é a única do projeto e apresenta algumas informações, co
 - Crie o layout com base no Figma.
 - Integre o formulário usando Sheet Monkey e suas planilhas de sheets.
 
-## 👯 Clone este projeto
- 
-git clone <a href="https://github.com/suelenbraga1/projeto-landing-page.git">
-Acessar
-cd projeto-landing-page
-Instalar Live Server <a href="https://www.npmjs.com/package/live-server">
-    
-
 ## 👾 Link do site disponibilizado:
 
 https://dnc-escola.netlify.app/
@@ -44,3 +36,13 @@ https://dnc-escola.netlify.app/
 ## 📎 Link da planilha de registro de informações: 
 
 https://docs.google.com/spreadsheets/d/1pQaCxvryKctQov3rwNDnz-lm-_RHP1r8Tx_8AsOr0YY/edit#gid=0 
+
+
+## 👯 Clone este projeto:
+
+```bash
+$ git clone https://github.com/suelenbraga1/projeto-landing-page.git
+# Acessar
+$ cd projeto-landing-page
+ 
+
